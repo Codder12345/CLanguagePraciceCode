@@ -1,0 +1,77 @@
+Date: 08/04/2024
+===================================================================================
+1. What is HTML?
+2. How to Create the application using HTML?
+3. What is the Element?
+4. HTML Page Structure
+5. Features of HTML
+6. Basic Tags of HTML.
+7. HTML Editors
+8. Examples
+====================================================================================
+What is Interface?
+	-It is an bridge between two diffrent channels.
+	- two types of Interfaces.
+	1. CLI (Command Line Interface)
+	2. GUI (Graphical User Interface)
+=====================================================================================
+1. What is HTML?
+	- Hypertext Markup Language.
+	- It is used to create a Static/Dynamic web Pages.
+	- It contains a strcture format.
+	- It has the contents like: Text, Images, Audio, Vidio, Linkes, etc....
+	- It is the collection of Elements/Tags.
+=====================================================================================
+2. How to Create the application using HTML?
+		
+	- We follow some Steps:
+	1. Reqired Text Editors
+		Notepad, Notepad++, Sublime Editor, VS Code, etc.
+	2. Create the Sample Web Page
+		Follow the Structure of HTML code
+	3. Save the Application
+	4. Run your Application.
+	
+	eg.: 
+	<html>
+		This is the new web Page.
+	</html>
+======================================================================================
+3. What is the Element?
+	- HTML elements can be defined as:
+	<html start tag>  Contents...... </html end tag>
+	- Html element contais the everything in btween Start & End Tag.
+	
+	eg: <p> This is the Paragraph </p>
+	
+	- Also there are some empty elements in HTML.
+	eg.: <br>, <hr>, <link>, <img>
+=======================================================================================
+4. HTML Page Structure
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<title>
+				Title of Page
+			</title>
+		</head>
+		<body>
+			Hellow Every One!!!!!
+		</body>
+	</html>
+	
+	----------------------------------------------
+	It contains two sections Head & Body
+	1. <!DOCTYPE html>: It contais html document type (version of HTML).
+	2. <head> contains meta data of the web page.
+	3. <body> contains the contents or collection of the elements.
+=====================================================================================
+5. Features of HTML
+	1. It is a very Simple & Easy Language. It can be easily understood and modified.
+	2. It is vary easy to make an effective presentation.
+	3. It is a Markup Language. So it provides a flexibal way to design web pages alnog with 
+		the text and other contents.
+	4. It is a Platform Independant because it can be deployed on any paltform like any 
+		types of the browsers.
+	5. It has the facility of to crate a multiple links of your webpages. 
+======================================================================================
